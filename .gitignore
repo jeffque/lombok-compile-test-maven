@@ -1,0 +1,7 @@
+*.sw[po]
+*.class
+*.jar
+*.war
+.vscode/
+!.mvn/**/*
+target/
